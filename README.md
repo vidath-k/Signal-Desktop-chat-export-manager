@@ -3,4 +3,6 @@ The Signal Desktop app usually exports jsonl(JSON lines) files which are quie di
 
 HOW TO RUN:
 copy and paste to the folder containing the main.jsonl file
-run: python3 signal_chat_viewer.py
+run: 
+
+<i>python3 signal_chat_viewer.py</i>
